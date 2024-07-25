@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ibottobi07
+- 👀 I’m interested in coding and managing.
+- 🌱 I’m currently learning programming.
